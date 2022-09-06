@@ -10,7 +10,7 @@ https://www.tooplate.com/view/2115-marvel
 @import url("https://fonts.googleapis.com/css?family=Maven+Pro:400,700");
 
 body {
-  font-family: "Maven Pro", sans-serif;
+  font-family: 'Sriracha', cursive;
   padding-top: 70px;
 }
 
@@ -20,7 +20,7 @@ body {
 
 .small-text {
   color: #5b5b5b;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: bold;
   padding: 8px 6px;
   border-radius: 50px;
@@ -132,7 +132,7 @@ strong {
 }
 
 .animated-item {
-  font-size: 38px;
+  font-size: 32px;
   line-height: inherit;
   display: block;
   opacity: 0;
@@ -149,7 +149,7 @@ strong {
 }
 
 .animated-item:nth-child(3n+3) {
-  animation-delay: 4s;
+  animation-delay: 2s;
 }
 
 @keyframes BottomTotop {
